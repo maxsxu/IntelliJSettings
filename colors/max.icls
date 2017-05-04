@@ -1,13 +1,6 @@
 <scheme name="max" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-10-15T10:33:55</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2016-10-15T10:34:10</property>
-    <property name="originalScheme">Default</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_SIZE" value="21" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
