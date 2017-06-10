@@ -5,6 +5,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="h5" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="YAML" />
     </extensionMap>
   </component>
 </application>
