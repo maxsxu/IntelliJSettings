@@ -6,17 +6,5 @@
         <option name="certificatesPath" value="$USER_HOME$/.docker" />
       </configuration>
     </remote-server>
-    <remote-server name="Docker" type="docker">
-      <configuration>
-        <option name="apiUrl" value="unix:///var/run/docker.sock" />
-        <option name="certificatesPath" value="$USER_HOME$/.docker" />
-      </configuration>
-    </remote-server>
-    <remote-server name="Docker" type="docker">
-      <configuration>
-        <option name="apiUrl" value="unix:///var/run/docker.sock" />
-        <option name="certificatesPath" value="$USER_HOME$/.docker" />
-      </configuration>
-    </remote-server>
   </component>
 </application>
