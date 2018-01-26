@@ -1,9 +1,0 @@
-<templateSet group="Java">
-  <template name="sys" value="System.out.println($cursor$);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="COMPLETION" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
-</templateSet>
