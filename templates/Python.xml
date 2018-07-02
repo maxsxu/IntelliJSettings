@@ -1,6 +1,5 @@
 <templateSet group="Python">
-  <template name="if" value="if $END$:&#10;    $VAR$" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="if" value="if $END$:&#10;    $SELECTION$" description="if ..." toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
