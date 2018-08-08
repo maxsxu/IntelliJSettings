@@ -4,11 +4,11 @@
     <property name="created">2018-08-08T15:42:56</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-08-08T15:45:14</property>
+    <property name="modified">2018-08-08T17:38:25</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
@@ -251,7 +251,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="6ae96a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
